@@ -1,0 +1,11 @@
+{
+  "name": "Pull_Toggle",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Switch resource pulling on or off per chest and per machine for OttoFuel and CraftFromContainers: press I on a chest, fire, smelter, kiln or oven, or use the button in the chest window. Saved in the world. Client-side.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2351",
+    "potto007-OttoFuel-1.7.2",
+    "UnderHeiz-CraftFromContainers-4.0.70"
+  ]
+}
