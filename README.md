@@ -48,7 +48,7 @@ dotnet build -c Release \
   -p:BepInExCore="/path/to/BepInEx/core"
 ```
 
-`BepInExCore` is the `BepInEx/core` folder of any BepInEx install or r2modman profile. Without the `-p:` options the project looks for a Linux Steam install and an r2modman profile named "The Shack Next". The DLL lands in `bin/Release/`.
+`BepInExCore` is the `BepInEx/core` folder of any BepInEx install or r2modman profile. Without the `-p:` options the project looks for a Linux Steam install and an r2modman profile named "The Shack Pack Test Environment". The DLL lands in `bin/Release/`.
 
 This is the source of version 1.0.1 on Thunderstore.
 
